@@ -1,9 +1,36 @@
-body{
-    font-family: 'Exo 2', sans-serif;
-    margin: 0%;
-    padding: 0%;
+header{
+    height: 70px;
+    background-color: rgba(45, 28, 49, 0.555);
+    margin-bottom: 40px;
+}
+ul{
+    width: auto;
+    text-align: center;
+    margin-top: 0px;
+}
+li{
+    display: inline-block;
+    padding: 20px 60px;
+    font-family: 'Asap Condensed', sans-serif;
+}
+.account{
+    background-image: linear-gradient(salmon, tomato);
+    padding: 10px 20px;
+    border-radius: 20px;
     
 }
+a{
+    text-decoration: none;
+    color: rgb(216, 186, 176);
+}
+body{
+    font-family: 'Exo 2', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+
 span{
     color: #f4170c;
 }

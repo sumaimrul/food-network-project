@@ -1,0 +1,29 @@
+body{
+    font-family: 'Exo 2', sans-serif;
+    
+}
+span{
+    color: #f4170c;
+}
+.order-deals{
+    display: flex;
+}
+.order-deals h1{
+    font-size: 40px;
+  
+}
+.order-deals img{
+    width: 100%;
+}
+.half-width{
+    width: 45%;
+    padding-left: 5%;
+}
+.fr-btn{
+    text-decoration: none;
+    color: rgb(240, 176, 176);
+    background-image: linear-gradient(rgb(189, 175, 175), #3d3030);
+    padding: 10px 40px;
+    border-radius: 40px;
+   
+}
